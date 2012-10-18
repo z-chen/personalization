@@ -1,0 +1,2 @@
+tagbar.vmb: call delete('/home/spark/.vim/autoload/tagbar.vim')|call delete('/home/spark/.vim/doc/tagbar.txt')|call delete('/home/spark/.vim/plugin/tagbar.vim')|call delete('/home/spark/.vim/syntax/tagbar.vim')
+tagbar.vmb: call delete('/home/spark/.vim/autoload/tagbar.vim')|call delete('/home/spark/.vim/doc/tagbar.txt')|call delete('/home/spark/.vim/plugin/tagbar.vim')|call delete('/home/spark/.vim/syntax/tagbar.vim')

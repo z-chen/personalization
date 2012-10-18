@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/zhenghao/dash/static/js'
+let g:netrw_dirhist_2='/Users/zhenghao/dash/.git'
+let g:netrw_dirhist_3='/Users/zhenghao/dash/.git/modules'
+let g:netrw_dirhist_4='/Users/zhenghao/dash'
+let g:netrw_dirhist_5='/Users/zhenghao/dash/static/js/nv'
