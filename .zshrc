@@ -90,10 +90,3 @@ alias lesst='less -S --tab=40'
 alias lessrs='less -R -S'
 alias curlso='curl -s -O' # download a single URL silently, writing to the same file extensions
 alias gtime="/usr/bin/time -v " #VERY useful. GNU Time crushes the bash builtin
-
-
-alias libget='curl -u jjc@coursera.org:7ed19277386ae9e0833130bf81158ef86e1a6d3de63e050bd87630296bab4278 -X GET'
-alias libpost='curl -u jjc@coursera.org:7ed19277386ae9e0833130bf81158ef86e1a6d3de63e050bd87630296bab4278 -X POST'
-
-export AWS_ACCESS_KEY_ID="AKIAJDT4VQCLVHU6DVSA"
-export AWS_SECRET_ACCESS_KEY="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"
